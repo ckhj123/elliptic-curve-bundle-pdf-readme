@@ -12,7 +12,7 @@ This repository contains the machine-checked Lean 4 formalization and research w
 - **My Role:** Formalized Section 3 (Lemma 3.2, Family Y and Z, Theorem C on case family Y,Z), set up Mathlib graph structures, and implemented case analysis for Theorem C cycle classifications.
 
 ##  Research Documentation & Artifacts
-- [ Read Companion Research Write-up (PDF)](Lean_Project_Draft2.pdf) *(Draft in progress)*
+- [ Read Companion Research Write-up (PDF)](Lean_Project_3.pdf) *(Draft in progress)*
 
 ##  Machine-Checked Results in Lean 4
 - **Biresidue Structures & Graphs:** Modeled skew-symmetric biresidue matrices using Mathlib, formalizing Lemma 3.1 (degree bounds on smoothable subgraphs).
